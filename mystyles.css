@@ -163,7 +163,6 @@ p{
     padding-bottom: 3px;
     padding-top: 20px;
     font-size: 15px;
-    font-style: italic;
 }
 
 #byline {
@@ -208,8 +207,17 @@ a {
 
 #listsub {
     list-style-type: none;
-    text-indent: 10px;
+    margin-left: 10px;
     padding: 10px;
+}
+
+
+#two {
+    margin-left: 20px;
+}
+
+#three {
+    margin-left: 40px;
 }
 
 ol {
