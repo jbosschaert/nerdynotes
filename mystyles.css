@@ -1,9 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Francois+One);
 @import url(http://fonts.googleapis.com/css?family=Nunito);
 @import url(http://fonts.googleapis.com/css?family=Lato);
-@import url(http://fonts.googleapis.com/css?family=Chewy);
+@import url(http://fonts.googleapis.com/css?family=Kaushan+Script);
 @import url(http://fonts.googleapis.com/css?family=Quicksand);
 @import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
 * {
     margin: 0;
     padding: 0;
@@ -58,8 +59,8 @@ body {
 
 #side {
    color: #744D69;
-   font-family: 'Chewy', cursive;
-   font-size: 25px;
+   font-family: 'Kaushan Script', cursive;
+   font-size: 20px;
    font-weight: 700;
    text-transform: uppercase;
    padding-bottom: 10px;
@@ -133,7 +134,7 @@ h4 {
 }
 
 p{
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 7px;
     font-size: 16px;
 }
@@ -159,14 +160,14 @@ p{
 }
 
 #sidenote {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 3px;
     padding-top: 20px;
     font-size: 15px;
 }
 
 #byline {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     padding-bottom: 8px;
     font-size: 14px;
     text-indent: 40px;
@@ -176,12 +177,12 @@ p{
 a {
     text-decoration: none;
     color: #333333;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #link {
     text-decoration: none;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
 }
 
@@ -221,7 +222,7 @@ a {
 }
 
 ol {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin-left: 15px;
     margin-bottom: 5px;
     font-size: 16px;
