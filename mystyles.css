@@ -344,7 +344,7 @@ iframe {
     }
     
     #main {
-    width: 630px;
+    width: 530px;
     padding: 10px;
     margin-left: 30px;
     margin-right: 30px;
@@ -354,7 +354,7 @@ iframe {
     display: block;
     
     #aside {
-    width: 250px;
+    width: 200px;
     padding: 10px;
     margin-top: 60px;
     float: right;
