@@ -2,7 +2,6 @@
 @import url(http://fonts.googleapis.com/css?family=Nunito);
 @import url(http://fonts.googleapis.com/css?family=Kaushan+Script);
 @import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
-@import url(http://fonts.googleapis.com/css?family=Montserrat);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
 * {
     margin: 0;
@@ -343,4 +342,13 @@ iframe {
     #nav ul li:last-child > a:before {
         display: none;
     }
+    
+    #aside {
+    width: 250px;
+    padding: 10px;
+    margin-top: 60px;
+    float: right;
+    display: block;
+    text-align: center;
+}
 }
