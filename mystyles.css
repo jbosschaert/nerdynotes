@@ -1,10 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Francois+One);
 @import url(http://fonts.googleapis.com/css?family=Nunito);
-@import url(http://fonts.googleapis.com/css?family=Lato);
 @import url(http://fonts.googleapis.com/css?family=Kaushan+Script);
-@import url(http://fonts.googleapis.com/css?family=Quicksand);
 @import url(http://fonts.googleapis.com/css?family=Shadows+Into+Light);
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
 * {
     margin: 0;
     padding: 0;
@@ -134,7 +133,7 @@ h4 {
 }
 
 p{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     padding-bottom: 7px;
     font-size: 16px;
 }
@@ -160,14 +159,14 @@ p{
 }
 
 #sidenote {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     padding-bottom: 3px;
     padding-top: 20px;
     font-size: 15px;
 }
 
 #byline {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     padding-bottom: 8px;
     font-size: 14px;
     text-indent: 40px;
@@ -175,14 +174,12 @@ p{
 }
 
 a {
-    text-decoration: none;
     color: #333333;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 #link {
-    text-decoration: none;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-size: 16px;
 }
 
@@ -222,7 +219,7 @@ a {
 }
 
 ol {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     margin-left: 15px;
     margin-bottom: 5px;
     font-size: 16px;
