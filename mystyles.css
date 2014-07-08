@@ -101,6 +101,7 @@ h1 {
     font-family: 'Francois One', serif;
     color: #4D565E;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 h2 {
@@ -110,6 +111,7 @@ h2 {
     font-size: 30px;
     text-indent: 30px;
     padding-bottom: 5px;
+    text-decoration: none;
 }
 
 h3 {
