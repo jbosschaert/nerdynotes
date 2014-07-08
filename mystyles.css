@@ -343,6 +343,16 @@ iframe {
         display: none;
     }
     
+    #main {
+    width: 630px;
+    padding: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    float: left;
+    display: block;
+    
     #aside {
     width: 250px;
     padding: 10px;
