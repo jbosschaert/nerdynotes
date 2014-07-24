@@ -47,12 +47,16 @@ body {
 }
 
 #aside {
+    position: fixed;
     width: 250px;
     padding: 10px;
     margin-top: 60px;
+    margin-left: 1000px;
     float: right;
     display: block;
     text-align: center;
+    height: 60px;
+    padding-bottom: 10px;
 }
 
 #side {
