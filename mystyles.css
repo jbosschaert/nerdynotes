@@ -238,6 +238,13 @@ ol {
     max-width: 500px;
 }
 
+#imagealign {
+    display: block;
+    margin-left: 150px;
+    max-height: 350px;
+    max-width: 350px;
+}
+
 iframe {
     text-align: center;
 }
